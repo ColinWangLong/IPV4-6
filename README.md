@@ -274,7 +274,6 @@ CCTV17,http://kxrj.site:998/123/mg.php?id=cctv17
 吉林卫视,http://221.196.136.66:1/udp/225.1.2.26:5002
 吉林卫视,http://kxrj.site:998/123/mg.php?id=jlws
 吉林卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031117
-
 吉林卫视,http://121.24.98.154:8090/hls/37/index.m3u8
 
 黑龙江卫视,http://221.196.136.66:1/udp/225.1.1.115:5002
