@@ -1,5 +1,3 @@
-转换 https://live.fanmingming.com/txt2m3u/
----
 ##### 央视
 
 ##### 卫视
