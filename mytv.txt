@@ -124,7 +124,6 @@
 东方卫视,http://183.94.146.109:2222/tsfile/live/0107_1.m3u8
 东方卫视,
 东方卫视,
-东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
 
 东南卫视,http://183.94.146.109:2222/tsfile/live/1006_1.m3u8
@@ -146,8 +145,7 @@
 天津卫视,http://113.249.22.86:9999/rtp/235.254.198.67:1544
 天津卫视,
 
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+港澳,#genre#
 
 凤凰卫视,http://kxrj.site:8081/9653/fh.php?id=fhzw
 凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -165,6 +163,9 @@
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视, http://wouu.net:9977/udp/239.93.0.156:2193
@@ -193,50 +194,6 @@
 
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
-
-国际,#genre#
-
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-
-亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-
-无限新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-
-娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-
-日本新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-
-日经新闻,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-
-德国之声,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-
-法国24H,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-英国新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
-乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
-泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
-韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 澳门资讯,https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
 澳门资讯,https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8
@@ -244,25 +201,48 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 港台1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 港台2,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
+国际,#genre#
+
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+无限新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+日本新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+日经新闻,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+德国新闻,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+法国新闻,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+英国新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
+乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+泰国新闻,http://news1.live14.com/stream/news1_hi.m3u8
+韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 影视,#genre#
 
 豆瓣TOP,http://zzy789.xyz/douyu1.php?id=8770422
 
 美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-
 PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-
 RockAction,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-
 龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-
 千禧经典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-千禧经典,https://www.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
-
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
 CHC动作电影,http://183.94.146.109:2222/tsfile/live/1019_1.m3u8
@@ -278,97 +258,58 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
 邵氏电影,http://maomao.kandiantv.cn/douyu1.php?id=4246519
-邵氏电影,https://live.metshop.top/douyu/4246519
 
+邵氏电影,https://live.metshop.top/douyu/4246519
 斗鱼轮播1,https://live.metshop.top/douyu/426517
 斗鱼轮播2,https://live.metshop.top/douyu/1274132
 
 剧集,#genre#
 
 寻秦记,http://159.75.85.63:35455/yy/1382851591
-
 封神榜,http://159.75.85.63:35455/huya/23749096
-
 鹿鼎记,http://159.75.85.63:35455/huya/23865080
-
 西游记Ⅰ,http://159.75.85.63:35455/yy/1354936155
-
 西游记后传,http://159.75.85.63:35455/yy/1382736846
-
 天下第一,http://159.75.85.63:35455/yy/1382736838
-
 仙剑奇侠传Ⅰ,http://159.75.85.63:35455/yy/1382749903
-
 大江大河,http://159.75.85.63:35455/yy/1382736797
-
 新三国,http://159.75.85.63:35455/huya/11352944
-
 新水浒,http://159.75.85.63:35455/huya/11342384
-
 少年张三丰,http://159.75.85.63:35455/huya/26355824
-
 少年包青天1,http://159.75.85.63:35455/yy/1356043677
-
 少年包青天2,http://159.75.85.63:35455/yy/38498680
-
 少年包青天3,http://159.75.85.63:35455/yy/1382851540
-
 风云雄霸天下,http://159.75.85.63:35455/huya/21059612
-
 倚天屠龙记,http://159.75.85.63:35455/huya/11342403
-
 天龙八部,http://159.75.85.63:35455/yy/1351814644
-
 笑傲江湖,http://159.75.85.63:35455/yy/1354930909
-
 武林外传,http://159.75.85.63:35455/yy/21092633
-
 大唐双龙传,http://159.75.85.63:35455/huya/s4k
-
 隋唐英雄传,http://159.75.85.63:35455/yy/1352475619
-
 忠烈杨家将,http://159.75.85.63:35455/yy/1382749909
-
 雪中悍刀行,http://159.75.85.63:35455/yy/1382660835
-
-新白娘子传奇,http://159.75.85.63:35455/yy/1354930969
-
 
 动漫,#genre#
 
 爆笑虫子,https://live.metshop.top/douyu/9942574
 
 七龙珠,https://live.iill.top/huya/11601966
-
 海贼王,https://live.iill.top/huya/16913382
-
-哆啦A梦,http://159.75.85.63:35455/huya/11601963
-
-蜡笔小新,http://159.75.85.63:35455/huya/11352970
-
-海绵宝宝,http://159.75.85.63:35455/huya/11352919
-
 灌篮高手,https://live.iill.top/yy/1382735626  
 
+哆啦A梦,http://159.75.85.63:35455/huya/11601963
+蜡笔小新,http://159.75.85.63:35455/huya/11352970
+海绵宝宝,http://159.75.85.63:35455/huya/11352919
 火影忍者,http://159.75.85.63:35455/huya/11342385
-
 中华小当家,http://159.75.85.63:35455/huya/24257300
 
 动漫剧场,https://live.metshop.top/douyu/7620081
 超燃动漫,https://live.metshop.top/douyu/1174353
 柯南剧场,https://live.metshop.top/douyu/7050342
 灌篮高手,https://live.metshop.top/yy/1356243352
-
-金鹰卡通,http://113.249.22.86:9999/rtp/235.254.198.50:1476
-
-嘉佳卡通,http://113.249.22.86:9999/rtp/235.254.198.110:1716
-
-卡酷少儿,http://113.249.22.86:9999/rtp/235.254.198.49:1472
-
 
 春晚,#genre#
 1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
