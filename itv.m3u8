@@ -57,9 +57,9 @@ http://113.249.22.86:9999/rtp/235.254.198.54:1492
 http://113.220.235.19:9999/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-name="央视体育"  group-title="央视",央视体育
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv5
-#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="央视",体育赛事
+#EXTINF:-1 tvg-name="体育赛事"  group-title="央视",体育赛事
 https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
-#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/体育赛事.png" group-title="央视",体育赛事
+#EXTINF:-1 tvg-name="体育赛事"  group-title="央视",体育赛事
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
 #EXTINF:-1 tvg-name="央视电影"  group-title="央视",央视电影
 https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
@@ -258,16 +258,12 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="TVBS"  group-title="港澳",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="澳门资讯"  group-title="港澳",澳门资讯
-http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门资讯"  group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门资讯"  group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8
-#EXTINF:-1 tvg-name="澳门体育"  group-title="港澳",澳门体育
-http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-#EXTINF:-1 tvg-name="港台1"  group-title="港澳",港台1
+#EXTINF:-1 tvg-name="CCTV"  group-title="港澳",CCTV
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="港台2"  group-title="港澳",港台2
+#EXTINF:-1 tvg-name="CGTN"  group-title="港澳",CGTN
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="东森新闻"  group-title="国际",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
@@ -287,7 +283,9 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="日本新闻"  group-title="国际",日本新闻
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-name="日经新闻"  group-title="国际",日经新闻
+#EXTINF:-1 tvg-name="日全新闻"  group-title="国际",日全新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1 tvg-name="日经新闻"  group-title="国际",日全新闻
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-name="德国新闻"  group-title="国际",德国新闻
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
@@ -319,8 +317,6 @@ http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunk
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-name="俄罗斯台"  group-title="国际",俄罗斯台
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="日语新闻"  group-title="国际",日语新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="红牛运动"  group-title="国际",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-name="动物频道"  group-title="国际",动物频道
@@ -343,6 +339,14 @@ http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="靖天电影"  group-title="影视",靖天电影
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astr剧集"  group-title="影视",Astr剧集
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-name="澳门莲花"  group-title="影视",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 tvg-name="邵氏电影"  group-title="影视",邵氏电影
+http://maomao.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 tvg-name="邵氏电影"  group-title="影视",邵氏电影
+https://live.metshop.top/douyu/4246519
 #EXTINF:-1 tvg-name="CHC动作电影"  group-title="影视",CHC动作电影
 http://183.94.146.109:2222/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影"  group-title="影视",CHC动作电影
@@ -361,14 +365,6 @@ http://183.94.146.109:2222/tsfile/live/1020_1.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC影迷电影"  group-title="影视",CHC影迷电影
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-#EXTINF:-1 tvg-name="Astr剧集"  group-title="影视",Astr剧集
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-name="澳门莲花"  group-title="影视",澳门莲花
-http://php.jdshipin.com:8880/amlh.php
-#EXTINF:-1 tvg-name="邵氏电影"  group-title="影视",邵氏电影
-http://maomao.kandiantv.cn/douyu1.php?id=4246519
-#EXTINF:-1 tvg-name="邵氏电影"  group-title="影视",邵氏电影
-https://live.metshop.top/douyu/4246519
 #EXTINF:-1 tvg-name="斗鱼轮播1"  group-title="影视",斗鱼轮播1
 https://live.metshop.top/douyu/426517
 #EXTINF:-1 tvg-name="斗鱼轮播2"  group-title="影视",斗鱼轮播2
@@ -381,12 +377,8 @@ http://159.75.85.63:35455/huya/23749096
 http://159.75.85.63:35455/huya/23865080
 #EXTINF:-1 tvg-name="西游记Ⅰ"  group-title="剧集",西游记Ⅰ
 http://159.75.85.63:35455/yy/1354936155
-#EXTINF:-1 tvg-name="西游记后传"  group-title="剧集",西游记后传
-http://159.75.85.63:35455/yy/1382736846
 #EXTINF:-1 tvg-name="天下第一"  group-title="剧集",天下第一
 http://159.75.85.63:35455/yy/1382736838
-#EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ"  group-title="剧集",仙剑奇侠传Ⅰ
-http://159.75.85.63:35455/yy/1382749903
 #EXTINF:-1 tvg-name="大江大河"  group-title="剧集",大江大河
 http://159.75.85.63:35455/yy/1382736797
 #EXTINF:-1 tvg-name="新三国"  group-title="剧集",新三国
@@ -435,14 +427,12 @@ http://159.75.85.63:35455/huya/11352970
 http://159.75.85.63:35455/huya/11352919
 #EXTINF:-1 tvg-name="火影忍者"  group-title="动漫",火影忍者
 http://159.75.85.63:35455/huya/11342385
-#EXTINF:-1 tvg-name="中华小当家"  group-title="动漫",中华小当家
+#EXTINF:-1 tvg-name="厨神小当家"  group-title="动漫",厨神小当家
 http://159.75.85.63:35455/huya/24257300
 #EXTINF:-1 tvg-name="动漫剧场"  group-title="动漫",动漫剧场
 https://live.metshop.top/douyu/7620081
 #EXTINF:-1 tvg-name="超燃动漫"  group-title="动漫",超燃动漫
 https://live.metshop.top/douyu/1174353
-#EXTINF:-1 tvg-name="柯南剧场"  group-title="动漫",柯南剧场
-https://live.metshop.top/douyu/7050342
 #EXTINF:-1 tvg-name="灌篮高手"  group-title="动漫",灌篮高手
 https://live.metshop.top/yy/1356243352
 #EXTINF:-1 tvg-name="1995"  group-title="春晚",1995
