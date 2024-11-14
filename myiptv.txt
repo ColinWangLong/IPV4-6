@@ -149,6 +149,7 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+
 港澳,#genre#
 
 凤凰卫视,http://kxrj.site:8081/9653/fh.php?id=fhzw
@@ -188,7 +189,7 @@
 星影台，http://205.185.123.236:8899/1/now/stream.m3u8
 
 星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
-
+面白台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
 亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
@@ -215,9 +216,30 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 
+全球频道,#genre#
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+英国新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
+乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-
-
+澳门资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
+澳门资讯,https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
+澳门资讯,https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8
+澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+港台1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+港台2,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
 NewTV(加密),#genre#
 精品大剧,
@@ -318,15 +340,19 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 黑莓电影, http://39.134.134.51/000000002001/PLTV/88888888/224/3221285249/index.m3u8?HlsProfileId=
 
 邵氏电影,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+邵氏电影https://live.metshop.top/douyu/4246519
 
 豆瓣TOP,http://zzy789.xyz/douyu1.php?id=8770422
 
+斗鱼电影1,https://live.metshop.top/douyu/426517
+斗鱼电影2,https://live.metshop.top/douyu/1274132
 
 剧集,#genre#
 
-轮播,http://159.75.85.63:35455/yy/1382736838
+陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
 
 爱情公寓,http://159.75.85.63:35455/douyu/6863367
+爱情公寓,https://live.metshop.top/huya/11336726?cdn=txcdn
 
 寻秦记,http://159.75.85.63:35455/yy/1382851591
 
@@ -391,6 +417,12 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 爱放,https://aktv.top/myaktv/LIVE/659abeaf94699c7ce818764a568d1bf8.m3u8
 
+动漫剧场,https://live.metshop.top/douyu/7620081
+超燃动漫,https://live.metshop.top/douyu/1174353
+柯南剧场,https://live.metshop.top/douyu/7050342
+灌篮高手,https://live.metshop.top/yy/1356243352
+数码宝贝,http://cfss.cc/cdn/hy/29465874.flv
+
 猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
 
 七龙珠,https://live.iill.top/huya/11601966
@@ -412,6 +444,12 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 名侦探柯南,
 
 迪迦奥特曼,
+
+熊出没,https://live.metshop.top/yy/1354930977
+
+小猪佩奇,http://cfss.cc/cdn/hy/25243980.flv
+
+爆笑虫子,https://live.metshop.top/douyu/9942574
 
 金鹰卡通,http://113.249.22.86:9999/rtp/235.254.198.50:1476
 金鹰卡通,http://110.183.52.70:808/hls/29/index.m3u8
