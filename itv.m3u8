@@ -255,12 +255,12 @@ http://205.185.123.236:8899/1/now/stream.m3u8
 https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 #EXTINF:-1 tvg-name="面包台"  group-title="港澳",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="TVBS"  group-title="港澳",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="澳门资讯"  group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门资讯"  group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8
+#EXTINF:-1 tvg-name="TVBS"  group-title="港澳",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="CCTV"  group-title="港澳",CCTV
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CGTN"  group-title="港澳",CGTN
