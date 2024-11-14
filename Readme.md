@@ -1,4 +1,4 @@
-仅自用的mytv不定期维护 https://live.fanmingming.com/txt2m3u/
+仅以下节目不定期维护 https://live.fanmingming.com/txt2m3u/
 ---
 ##### 央视,#genre# 
 
@@ -34,9 +34,6 @@
 深圳卫视,
 北京卫视,
 天津卫视,
-香港卫视,
-凤凰卫视,
-星空卫视,
 
 ##### 国际,#genre#
 
