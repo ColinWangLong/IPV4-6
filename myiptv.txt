@@ -154,19 +154,23 @@
 凤凰卫视,http://kxrj.site:8081/9653/fh.php?id=fhzw
 凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰卫视,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
 凤凰资讯,http://kxrj.site:8081/9653/fh.php?id=fhzx
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 
 凤凰香港,http://kxrj.site:8081/9653/fh.php?id=fhhk
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视, http://wouu.net:9977/udp/239.93.0.156:2193
 
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 明珠台,http://caocaocaocao.hg16888.vip/mytvsuper/P
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -174,11 +178,14 @@
 星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 爆谷台,https://www.mytvsuper.xyz/1/baogutai/baogu.m3u8
 爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+爆谷台,http://205.185.123.236:8899/1/baogutai/stream.m3u8
 
 星影台，https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
+星影台，http://205.185.123.236:8899/1/now/stream.m3u8
 
 星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
@@ -202,11 +209,14 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 
-台视,
+
+
 
 
 NewTV(加密),#genre#
@@ -378,6 +388,8 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 动漫,#genre#
+
+爱放,https://aktv.top/myaktv/LIVE/659abeaf94699c7ce818764a568d1bf8.m3u8
 
 猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
 
