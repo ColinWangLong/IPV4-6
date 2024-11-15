@@ -169,44 +169,62 @@ http://182.92.109.190:1668/migu720/migu720.php?id=cctv17
 http://183.94.146.109:2222/tsfile/live/0018_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视"  group-title="卫视",湖南卫视
 http://221.196.136.66:1/udp/225.1.1.114:5002
+#EXTINF:-1 tvg-name="湖南卫视"  group-title="卫视",湖南卫视
+http://113.218.187.169:9999/udp/239.76.253.101:9000
 #EXTINF:-1 tvg-name="湖北卫视"  group-title="卫视",湖北卫视
 http://183.94.146.109:2222/tsfile/live/0017_1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视"  group-title="卫视",湖北卫视
 http://221.196.136.66:1/udp/225.1.1.147:5002
+#EXTINF:-1 tvg-name="湖北卫视"  group-title="卫视",湖北卫视
+http://113.218.187.169:9999/udp/239.76.253.193:9000
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="卫视",浙江卫视
 http://183.94.146.109:2222/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="卫视",浙江卫视
 http://221.196.136.66:1/udp/225.1.1.112:5002
+#EXTINF:-1 tvg-name="浙江卫视"  group-title="卫视",浙江卫视
+http://113.218.187.169:9999/udp/239.76.246.92:1234
 #EXTINF:-1 tvg-name="江苏卫视"  group-title="卫视",江苏卫视
 http://183.94.146.109:2222/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视"  group-title="卫视",江苏卫视
 http://221.196.136.66:1/udp/225.1.1.126:5002
+#EXTINF:-1 tvg-name="江苏卫视"  group-title="卫视",江苏卫视
+http://113.218.187.169:9999/udp/239.76.246.181:1234
 #EXTINF:-1 tvg-name="东方卫视"  group-title="卫视",东方卫视
 http://183.94.146.109:2222/tsfile/live/0107_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视"  group-title="卫视",东方卫视
 http://221.196.136.66:1/udp/225.1.2.31:5002
+#EXTINF:-1 tvg-name="东方卫视"  group-title="卫视",东方卫视
+http://113.218.187.169:9999/udp/239.76.253.186:9000
 #EXTINF:-1 tvg-name="东南卫视"  group-title="卫视",东南卫视
 http://183.94.146.109:2222/tsfile/live/1006_1.m3u8
-
-
+#EXTINF:-1 tvg-name="东南卫视"  group-title="卫视",东南卫视
+http://113.218.187.169:9999/udp/239.76.252.190:9000
 #EXTINF:-1 tvg-name="广东卫视"  group-title="卫视",广东卫视
 http://183.94.146.109:2222/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视"  group-title="卫视",广东卫视
 http://221.196.136.66:1/udp/225.1.1.116:5002
+#EXTINF:-1 tvg-name="广东卫视"  group-title="卫视",广东卫视
+http://113.218.187.169:9999/udp/239.76.245.189:1234
 #EXTINF:-1 tvg-name="深圳卫视"  group-title="卫视",深圳卫视
 http://183.94.146.109:2222/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视"  group-title="卫视",深圳卫视
 http://221.196.136.66:1/udp/225.1.1.117:5002
+#EXTINF:-1 tvg-name="深圳卫视"  group-title="卫视",深圳卫视
+http://113.218.187.169:9999/udp/239.76.253.188:9000
 #EXTINF:-1 tvg-name="北京卫视"  group-title="卫视",北京卫视
 http://183.94.146.109:2222/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视"  group-title="卫视",北京卫视
 http://221.196.136.66:1/udp/225.1.1.113:5002
+#EXTINF:-1 tvg-name="北京卫视"  group-title="卫视",北京卫视
+http://113.218.187.169:9999/udp/239.76.246.184:1234
 #EXTINF:-1 tvg-name="天津卫视"  group-title="卫视",天津卫视
 http://113.249.22.86:9999/rtp/235.254.198.67:1544
 #EXTINF:-1 tvg-name="天津卫视"  group-title="卫视",天津卫视
 http://221.196.136.66:1/udp/225.1.1.111:5002
+#EXTINF:-1 tvg-name="天津卫视"  group-title="卫视",天津卫视
+http://113.218.187.169:9999/udp/239.76.253.185:9000
 #EXTINF:-1 tvg-name="凤凰卫视"  group-title="港澳",凤凰卫视
 http://kxrj.site:8081/9653/fh.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视"  group-title="港澳",凤凰卫视
