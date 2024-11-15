@@ -239,6 +239,8 @@ http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="香港卫视"  group-title="港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="亚洲卫视"  group-title="港澳",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 tvg-name="星空卫视"  group-title="港澳",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="星空卫视"  group-title="港澳",星空卫视
@@ -275,10 +277,14 @@ http://205.185.123.236:8899/1/now/stream.m3u8
 https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 #EXTINF:-1 tvg-name="面包台"  group-title="港澳",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-name="番薯台"  group-title="港澳",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-name="澳门资讯"  group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门资讯"  group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8
+#EXTINF:-1 tvg-name="香港C+"  group-title="港澳",香港C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="TVBS"  group-title="港澳",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="CCTV"  group-title="港澳",CCTV
@@ -287,10 +293,16 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="东森新闻"  group-title="国际",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-name="东森新闻"  group-title="国际",东森新闻
+http://211.72.65.236:8540/.m3u8
+#EXTINF:-1 tvg-name="点掌财经"  group-title="国际",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 #EXTINF:-1 tvg-name="中视"  group-title="国际",中视
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="华视"  group-title="国际",华视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="民视"  group-title="国际",民视
+http://litv.zapi.us.kg/?id=4gtv-4gtv002
 #EXTINF:-1 tvg-name="亚洲新闻"  group-title="国际",亚洲新闻
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="无限新闻"  group-title="国际",无限新闻
@@ -315,6 +327,8 @@ http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="半岛新闻"  group-title="国际",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-name="半岛新闻"  group-title="国际",半岛新闻
+http://litv.zapi.us.kg/?id=litv-ftv10
 #EXTINF:-1 tvg-name="英国新闻"  group-title="国际",英国新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="金砖中文"  group-title="国际",金砖中文
@@ -339,6 +353,8 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-name="动物频道"  group-title="国际",动物频道
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="动物频道"  group-title="国际",动物频道
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name="豆瓣TOP"  group-title="影视",豆瓣TOP
 http://zzy789.xyz/douyu1.php?id=8770422
 #EXTINF:-1 tvg-name="美亚电影"  group-title="影视",美亚电影
@@ -349,16 +365,24 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华经典"  group-title="影视",龙华经典
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-name="重温经典"  group-title="影视",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="龙华日韩"  group-title="影视",龙华日韩
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华电影"  group-title="影视",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华电影"  group-title="影视",龙华电影
+http://litv.zapi.us.kg/?id=litv-longturn03
 #EXTINF:-1 tvg-name="千禧经典"  group-title="影视",千禧经典
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="靖天电影"  group-title="影视",靖天电影
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天电影"  group-title="影视",靖天电影
+http://litv.zapi.us.kg/?id=4gtv-4gtv061
 #EXTINF:-1 tvg-name="Astr剧集"  group-title="影视",Astr剧集
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-name="AMC电影"  group-title="影视",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="澳门莲花"  group-title="影视",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-name="邵氏电影"  group-title="影视",邵氏电影
@@ -381,6 +405,24 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 https://live.metshop.top/douyu/426517
 #EXTINF:-1 tvg-name="斗鱼轮播2"  group-title="影视",斗鱼轮播2
 https://live.metshop.top/douyu/1274132
+#EXTINF:-1 tvg-name="虎牙轮播1"  group-title="影视",虎牙轮播1
+http://diyp.zxxoo.work/huya/11602041
+#EXTINF:-1 tvg-name="虎牙轮播2"  group-title="影视",虎牙轮播2
+http://diyp.zxxoo.work/huya/11602043
+#EXTINF:-1 tvg-name="周星驰"  group-title="影视",周星驰
+http://diyp.zxxoo.work/huya/11336587
+#EXTINF:-1 tvg-name="刘德华"  group-title="影视",刘德华
+http://diyp.zxxoo.work/huya/11342424
+#EXTINF:-1 tvg-name="成龙"  group-title="影视",成龙
+http://diyp.zxxoo.work/huya/11342386
+#EXTINF:-1 tvg-name="林正英"  group-title="影视",林正英
+http://43.136.119.99/yy.php?id=1351505899&uid=1150685483
+#EXTINF:-1 tvg-name="漫威"  group-title="影视",漫威
+http://diyp.zxxoo.work/douyu/6140589
+#EXTINF:-1 tvg-name="爱情公寓"  group-title="剧集",爱情公寓
+http://diyp.zxxoo.work/huya/11336726
+#EXTINF:-1 tvg-name="陈翔六点半"  group-title="剧集",陈翔六点半
+http://diyp.zxxoo.work/huya/11274154
 #EXTINF:-1 tvg-name="寻秦记"  group-title="剧集",寻秦记
 http://159.75.85.63:35455/yy/1382851591
 #EXTINF:-1 tvg-name="封神榜"  group-title="剧集",封神榜
@@ -423,6 +465,14 @@ http://159.75.85.63:35455/yy/1352475619
 http://159.75.85.63:35455/yy/1382749909
 #EXTINF:-1 tvg-name="雪中悍刀行"  group-title="剧集",雪中悍刀行
 http://159.75.85.63:35455/yy/1382660835
+#EXTINF:-1 tvg-name="爱放动漫"  group-title="动漫",爱放动漫
+http://litv.zapi.us.kg/?id=litv-ftv15
+#EXTINF:-1 tvg-name="靖洋卡通"  group-title="动漫",靖洋卡通
+http://litv.zapi.us.kg/?id=4gtv-4gtv057
+#EXTINF:-1 tvg-name="靖天卡通"  group-title="动漫",靖天卡通
+http://litv.zapi.us.kg/?id=4gtv-4gtv044
+#EXTINF:-1 tvg-name="龙华卡通"  group-title="动漫",龙华卡通
+http://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1 tvg-name="爆笑虫子"  group-title="动漫",爆笑虫子
 https://live.metshop.top/douyu/9942574
 #EXTINF:-1 tvg-name="七龙珠"  group-title="动漫",七龙珠
