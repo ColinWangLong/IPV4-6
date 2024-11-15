@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="央视综合" group-title="央视",央视综合
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视",央视综合
 https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 #EXTINF:-1 tvg-name="CCTV1"  group-title="央视",央视综合
 http://183.94.146.109:2222/tsfile/live/0001_1.m3u8
@@ -39,13 +39,13 @@ http://113.249.22.86:9999/rtp/235.254.198.183:7980
 http://113.220.235.19:9999/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4"  group-title="央视",央视国际
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv4
-#EXTINF:-1 tvg-name="欧洲国际"  group-title="央视",欧洲国际
+#EXTINF:-1 tvg-name="CCTV4o"  group-title="央视",欧洲国际
 https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
-#EXTINF:-1 tvg-name="欧洲国际"  group-title="央视",欧洲国际
+#EXTINF:-1 tvg-name="CCTV4o"  group-title="央视",欧洲国际
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv4o
-#EXTINF:-1 tvg-name="美洲国际"  group-title="央视",美洲国际
+#EXTINF:-1 tvg-name="CCTV4a"  group-title="央视",美洲国际
 https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
-#EXTINF:-1 tvg-name="美洲国际"  group-title="央视",美洲国际
+#EXTINF:-1 tvg-name="CCTV4a"  group-title="央视",美洲国际
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv4a
 #EXTINF:-1 tvg-name="CCTV5"  group-title="央视",央视体育
 https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
