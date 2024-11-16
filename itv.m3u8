@@ -358,10 +358,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="金砖英文"  group-title="国际",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="俄罗斯频"  group-title="国际",俄罗斯频
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="俄罗斯台"  group-title="国际",俄罗斯台
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="泰国新闻"  group-title="国际",泰国新闻
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-name="韩国国防"  group-title="国际",韩国国防
