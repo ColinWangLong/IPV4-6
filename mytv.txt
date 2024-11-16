@@ -261,7 +261,7 @@ RockAction,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
@@ -285,7 +285,6 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 封神榜,http://159.75.85.63:35455/huya/23749096
 鹿鼎记,http://159.75.85.63:35455/huya/23865080
 西游记Ⅰ,http://159.75.85.63:35455/yy/1354936155
-西游记后传,http://159.75.85.63:35455/yy/1382736846
 天下第一,http://159.75.85.63:35455/yy/1382736838
 仙剑奇侠传Ⅰ,http://159.75.85.63:35455/yy/1382749903
 新三国,http://159.75.85.63:35455/huya/11352944
@@ -306,6 +305,10 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 动漫,#genre#
 
+爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+
 爆笑虫子,https://live.metshop.top/douyu/9942574
 
 七龙珠,https://live.iill.top/huya/11601966
@@ -316,11 +319,12 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 蜡笔小新,http://159.75.85.63:35455/huya/11352970
 海绵宝宝,http://159.75.85.63:35455/huya/11352919
 火影忍者,http://159.75.85.63:35455/huya/11342385
-中华小当家,http://159.75.85.63:35455/huya/24257300
+厨神小当家,http://159.75.85.63:35455/huya/24257300
 
-柯南剧场,https://live.metshop.top/douyu/7620081
-超燃动漫,https://live.metshop.top/douyu/1174353
 灌篮高手,https://live.metshop.top/yy/1356243352
+柯南剧场,https://live.metshop.top/douyu/7620081
+轮播动漫,https://live.metshop.top/douyu/1174353
+
 
 春晚,#genre#
 1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
@@ -345,7 +349,6 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 2014,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
 2016,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
-2017,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
 2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
 2018,https://cdn8.yzzy-online.com/20220704/610_ae5255ad/1000k/hls/index.m3u8
 2019,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
