@@ -152,31 +152,30 @@ CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 
 港澳,#genre#
 
-凤凰卫视,http://kxrj.site:8081/9653/fh.php?id=fhzw
-凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰卫视,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
-凤凰资讯,http://kxrj.site:8081/9653/fh.php?id=fhzx
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 
-凤凰香港,http://kxrj.site:8081/9653/fh.php?id=fhhk
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+
+凤凰卫视,http://kxrj.site:8081/9653/fh.php?id=fhzw
+凤凰资讯,http://kxrj.site:8081/9653/fh.php?id=fhzx
+凤凰香港,http://kxrj.site:8081/9653/fh.php?id=fhhk
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视, http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 明珠台,http://caocaocaocao.hg16888.vip/mytvsuper/P
@@ -186,6 +185,7 @@ CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
 爆谷台,https://www.mytvsuper.xyz/1/baogutai/baogu.m3u8
 爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
@@ -194,23 +194,25 @@ CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 星影台,https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 星影台,http://205.185.123.236:8899/1/now/stream.m3u8
 
-星河台,https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+台视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
 
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 澳门资讯,https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
 澳门资讯,https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-港台1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-港台2,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+CCTV,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+CGTN,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
 国际,#genre#
 
+BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 无限新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -219,6 +221,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 日本新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 日经新闻,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 德国新闻,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+德国新闻,http://37.27.111.214:8080/live/46/hls.m3u8
 法国新闻,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -226,7 +229,6 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
 泰国新闻,http://news1.live14.com/stream/news1_hi.m3u8
 韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
@@ -242,6 +244,7 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 豆瓣TOP,http://zzy789.xyz/douyu1.php?id=8770422
 
 美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 RockAction,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
