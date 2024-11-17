@@ -506,6 +506,12 @@ http://diyp.zxxoo.work/huya/11602034
 http://diyp.zxxoo.work/huya/11274154
 #EXTINF:-1 tvg-name="爱情公寓"  group-title="剧集",爱情公寓
 http://diyp.zxxoo.work/huya/11336726
+#EXTINF:-1 tvg-name="爱情公寓"  group-title="剧集",爱情公寓
+http://120.77.28.4:8648/huya.php?id=11336726
+#EXTINF:-1 tvg-name="万合天宜"  group-title="剧集",万合天宜
+http://120.77.28.4:8648/douyu.php?id=9220456
+#EXTINF:-1 tvg-name="万合天宜"  group-title="剧集",万合天宜
+http://159.75.85.63:35455/douyu/9220456
 #EXTINF:-1 tvg-name="琅琊榜"  group-title="剧集",琅琊榜
 http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-name="伪装者"  group-title="剧集",伪装者
@@ -524,6 +530,8 @@ http://159.75.85.63:35455/yy/1354936155
 http://159.75.85.63:35455/yy/1382736838
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ"  group-title="剧集",仙剑奇侠传Ⅰ
 http://maomao.kandiantv.cn/yy.php?id=1382749903
+
+
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ"  group-title="剧集",仙剑奇侠传Ⅰ
 http://159.75.85.63:35455/yy/1382749903
 #EXTINF:-1 tvg-name="新三国"  group-title="剧集",新三国
