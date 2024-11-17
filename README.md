@@ -24,7 +24,7 @@
 |    ZBDS     | https://live.zbds.top/tv/iptv4.m3u                           | IPV4 |
 |    AKTV     | http://aktv.top/live.m3u                                     | IPV4 |
 
-#### 软件
+#### 空壳软件
 
 |   名称    | 地址                                                      |  备注   |
 | :-------: | --------------------------------------------------------- | :-----: |
@@ -38,7 +38,7 @@
 | ZyPlayer  | https://github.com/Hiram-Wong/ZyPlayer/releases           | 多平台  |
 | Potplayer | https://potplayer.tv/                                     | Windows |
 
-#### 工具
+#### 其它工具
 
 |   [TXT转M3U](https://live.fanmingming.com/txt2m3u/)    | [EPG节目单](https://epg.pw/test_channel_page.html?lang=zh-hans) |     [EPG节目单](https://live.fanmingming.com/e.xml)     |              [IPV6联通性](https://testipv6.cn/)              |   [直播源检测](https://github.com/zhimin-dev/iptv-checker)   |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
