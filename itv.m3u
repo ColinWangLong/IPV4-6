@@ -272,6 +272,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="星空卫视" group-title="港澳",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="星空卫视" group-title="港澳",星空卫视
+http://110.185.240.152:55555/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="星空卫视" group-title="港澳",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳",翡翠台
 http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
@@ -450,6 +452,10 @@ http://diyp.zxxoo.work/huya/11602034
 http://diyp.zxxoo.work/huya/11274154
 #EXTINF:-1 tvg-name="爱情公寓"  group-title="剧集",爱情公寓
 http://diyp.zxxoo.work/huya/11336726
+#EXTINF:-1 tvg-name="琅琊榜"  group-title="剧集",琅琊榜
+http://zby.xjqxz.top/lyb/live.m3u8
+#EXTINF:-1 tvg-name="伪装者"  group-title="剧集",伪装者
+http://maomao.kandiantv.cn/yy.php?id=1354936244
 #EXTINF:-1 tvg-name="大江大河"  group-title="剧集",大江大河
 http://159.75.85.63:35455/yy/1382736797
 #EXTINF:-1 tvg-name="寻秦记"  group-title="剧集",寻秦记
@@ -462,6 +468,8 @@ http://159.75.85.63:35455/huya/23865080
 http://159.75.85.63:35455/yy/1354936155
 #EXTINF:-1 tvg-name="天下第一" group-title="剧集",天下第一
 http://159.75.85.63:35455/yy/1382736838
+#EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ"  group-title="剧集",仙剑奇侠传Ⅰ
+http://maomao.kandiantv.cn/yy.php?id=1382749903
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ"  group-title="剧集",仙剑奇侠传Ⅰ
 http://159.75.85.63:35455/yy/1382749903
 #EXTINF:-1 tvg-name="新三国"  group-title="剧集",新三国
@@ -502,10 +510,16 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv057
 http://litv.zapi.us.kg/?id=4gtv-4gtv044
 #EXTINF:-1 tvg-name="爆笑虫子"  group-title="动漫",爆笑虫子
 https://live.metshop.top/douyu/9942574
+#EXTINF:-1 tvg-name="猫和老鼠"  group-title="动漫",猫和老鼠
+http://159.75.85.63:35455/huya/11352879
 #EXTINF:-1 tvg-name="七龙珠"  group-title="动漫",七龙珠
 https://live.iill.top/huya/11601966
+#EXTINF:-1 tvg-name="七龙珠"  group-title="动漫",七龙珠
+http://159.75.85.63:35455/huya/11601966
 #EXTINF:-1 tvg-name="海贼王"  group-title="动漫",海贼王
 https://live.iill.top/huya/16913382
+#EXTINF:-1 tvg-name="灌篮高手" group-title="动漫",灌篮高手
+http://maomao.kandiantv.cn/yy.php?id=1356243352
 #EXTINF:-1 tvg-name="灌篮高手" group-title="动漫",灌篮高手
 https://live.iill.top/yy/1382735626
 #EXTINF:-1 tvg-name="哆啦A梦" group-title="动漫",哆啦A梦
@@ -522,6 +536,8 @@ http://159.75.85.63:35455/huya/24257300
 https://live.metshop.top/yy/1356243352
 #EXTINF:-1 tvg-name="柯南剧场"  group-title="动漫",柯南剧场
 https://live.metshop.top/douyu/7620081
+#EXTINF:-1 tvg-name="柯南剧场"  group-title="动漫",柯南剧场
+http://maomao.kandiantv.cn/douyu1.php?id=6484910
 #EXTINF:-1 tvg-name="轮播动漫"  group-title="动漫",轮播动漫
 https://live.metshop.top/douyu/1174353
 #EXTINF:-1 tvg-name="1995" group-title="春晚",1995
