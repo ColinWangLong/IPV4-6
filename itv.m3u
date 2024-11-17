@@ -504,6 +504,8 @@ http://159.75.85.63:35455/yy/1382749909
 http://159.75.85.63:35455/yy/1382660835
 #EXTINF:-1 tvg-name="爱放动漫"  group-title="动漫",爱放动漫
 http://litv.zapi.us.kg/?id=litv-ftv15
+#EXTINF:-1 tvg-name="黑莓动画"  group-title="动漫",黑莓动画
+http://112.102.217.173:9003//hls/100/index.m3u8
 #EXTINF:-1 tvg-name="靖洋卡通"  group-title="动漫",靖洋卡通
 http://litv.zapi.us.kg/?id=4gtv-4gtv057
 #EXTINF:-1 tvg-name="靖天卡通"  group-title="动漫",靖天卡通
