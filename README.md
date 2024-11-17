@@ -2,7 +2,7 @@
 
 |  名称  | 地址                                                         |
 | :----: | ------------------------------------------------------------ |
-| 饭太硬 | [http://www.饭太硬.com/tv/](http://www.xn--sss604efuw.com/tv/) |
+| 饭太硬 | [http://www.饭太硬.com/tv/](http://www.xn--sss604efuw.com/tv) |
 | 盒子迷 | [https://盒子迷.top/禁止贩卖](https://xn--i8sz35d1yr.top/禁止贩卖) |
 | 摸鱼儿 | [http://我不是.摸鱼儿.com](http://xn--ihqu10cn4c.xn--v4q818bf34b.com/) |
 |  肥猫  | [http://肥猫.com/](https://xn--z7x900a.com/)                 |
