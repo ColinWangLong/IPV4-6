@@ -504,40 +504,86 @@ http://diyp.zxxoo.work/huya/11602034
 
 #EXTINF:-1 tvg-name="陈翔六点半"  group-title="剧集",陈翔六点半
 http://diyp.zxxoo.work/huya/11274154
+
 #EXTINF:-1 tvg-name="爱情公寓"  group-title="剧集",爱情公寓
 http://diyp.zxxoo.work/huya/11336726
 #EXTINF:-1 tvg-name="爱情公寓"  group-title="剧集",爱情公寓
 http://120.77.28.4:8648/huya.php?id=11336726
+
 #EXTINF:-1 tvg-name="万合天宜"  group-title="剧集",万合天宜
 http://120.77.28.4:8648/douyu.php?id=9220456
 #EXTINF:-1 tvg-name="万合天宜"  group-title="剧集",万合天宜
 http://159.75.85.63:35455/douyu/9220456
+
 #EXTINF:-1 tvg-name="琅琊榜"  group-title="剧集",琅琊榜
 http://zby.xjqxz.top/lyb/live.m3u8
+
 #EXTINF:-1 tvg-name="伪装者"  group-title="剧集",伪装者
 http://maomao.kandiantv.cn/yy.php?id=1354936244
+
 #EXTINF:-1 tvg-name="大江大河"  group-title="剧集",大江大河
 http://159.75.85.63:35455/yy/1382736797
+
 #EXTINF:-1 tvg-name="寻秦记"  group-title="剧集",寻秦记
 http://159.75.85.63:35455/yy/1382851591
+#EXTINF:-1 tvg-name="寻秦记"  group-title="剧集",寻秦记
+http://120.77.28.4:8648/huya.php?id=23864973
+#EXTINF:-1 tvg-name="寻秦记"  group-title="剧集",寻秦记
+http://111.67.193.2:35455/yy/1382851591
+#EXTINF:-1 tvg-name="寻秦记"  group-title="剧集",寻秦记
+https://live.metshop.top/yy/1382749900
+#EXTINF:-1 tvg-name="寻秦记"  group-title="剧集",寻秦记
+http://diyp.zxxoo.work/huya/23864973
+
+
 #EXTINF:-1 tvg-name="封神榜"  group-title="剧集",封神榜
 http://159.75.85.63:35455/huya/23749096
+#EXTINF:-1 tvg-name="封神榜"  group-title="剧集",封神榜
+http://diyp.zxxoo.work/huya/23749096
+#EXTINF:-1 tvg-name="封神榜"  group-title="剧集",封神榜
+http://120.77.28.4:8648/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="封神榜"  group-title="剧集",封神榜
+https://lunbo.freetv.top/yy/1353426319
+#EXTINF:-1 tvg-name="封神榜"  group-title="剧集",封神榜
+https://live.metshop.top/yy/1353426319
+
+
 #EXTINF:-1 tvg-name="鹿鼎记"  group-title="剧集",鹿鼎记
 http://159.75.85.63:35455/huya/23865080
+#EXTINF:-1 tvg-name="鹿鼎记"  group-title="剧集",鹿鼎记
+http://diyp.zxxoo.work/huya/23865080
+#EXTINF:-1 tvg-name="鹿鼎记"  group-title="剧集",鹿鼎记
+http://111.67.193.2:35455/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记"  group-title="剧集",鹿鼎记
+https://lunbo.freetv.top/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记"  group-title="剧集",鹿鼎记
+https://live.metshop.top/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记"  group-title="剧集",鹿鼎记
+http://120.77.28.4:8648/yy.php?id=28265277
+
 #EXTINF:-1 tvg-name="西游记Ⅰ"  group-title="剧集",西游记Ⅰ
 http://159.75.85.63:35455/yy/1354936155
+
 #EXTINF:-1 tvg-name="天下第一" group-title="剧集",天下第一
 http://159.75.85.63:35455/yy/1382736838
+#EXTINF:-1 tvg-name="天下第一" group-title="剧集",天下第一
+http://11.xmyxc.cn/api/php/yy.php?id=1382736838
+
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ"  group-title="剧集",仙剑奇侠传Ⅰ
 http://maomao.kandiantv.cn/yy.php?id=1382749903
-
-
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ"  group-title="剧集",仙剑奇侠传Ⅰ
 http://159.75.85.63:35455/yy/1382749903
+
 #EXTINF:-1 tvg-name="新三国"  group-title="剧集",新三国
 http://159.75.85.63:35455/huya/11352944
+#EXTINF:-1 tvg-name="新三国"  group-title="剧集",新三国
+http://120.77.28.4:8648/yy.php?id=23512910
+
 #EXTINF:-1 tvg-name="新水浒" group-title="剧集",新水浒
 http://159.75.85.63:35455/huya/11342384
+#EXTINF:-1 tvg-name="新水浒" group-title="剧集",新水浒
+http://120.77.28.4:8648/huya.php?id=11342384
+
 #EXTINF:-1 tvg-name="少年张三丰"  group-title="剧集",少年张三丰
 http://159.75.85.63:35455/huya/26355824
 #EXTINF:-1 tvg-name="少年包青天1"  group-title="剧集",少年包青天1
@@ -546,18 +592,51 @@ http://159.75.85.63:35455/yy/1356043677
 http://159.75.85.63:35455/yy/38498680
 #EXTINF:-1 tvg-name="少年包青天3" group-title="剧集",少年包青天3
 http://159.75.85.63:35455/yy/1382851540
+
 #EXTINF:-1 tvg-name="风云雄霸天下" group-title="剧集",风云雄霸天下
 http://159.75.85.63:35455/huya/21059612
+
+
 #EXTINF:-1 tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
 http://159.75.85.63:35455/huya/11342403
+#EXTINF:-1 tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
+https://live.metshop.top/yy/1449856066
+#EXTINF:-1 tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
+http://diyp.zxxoo.work/huya/11342403
+#EXTINF:-1 tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
+http://diyp.zxxoo.work/huya/23734246
+
 #EXTINF:-1 tvg-name="天龙八部"  group-title="剧集",天龙八部
 http://159.75.85.63:35455/yy/1351814644
+#EXTINF:-1 tvg-name="天龙八部"  group-title="剧集",天龙八部
+http://120.77.28.4:8648/huya.php?id=23903123
+#EXTINF:-1 tvg-name="天龙八部"  group-title="剧集",天龙八部
+http://diyp.zxxoo.work/huya/23903123
+#EXTINF:-1 tvg-name="天龙八部"  group-title="剧集",天龙八部
+https://live.metshop.top/yy/1351814644
+
+
 #EXTINF:-1 tvg-name="笑傲江湖"  group-title="剧集",笑傲江湖
 http://159.75.85.63:35455/yy/1354930909
+#EXTINF:-1 tvg-name="笑傲江湖"  group-title="剧集",笑傲江湖
+笑傲江湖,http://diyp.zxxoo.work/huya/26355790
+#EXTINF:-1 tvg-name="笑傲江湖"  group-title="剧集",笑傲江湖
+笑傲江湖,http://diyp.zxxoo.work/huya/23865142
+#EXTINF:-1 tvg-name="笑傲江湖"  group-title="剧集",笑傲江湖
+笑傲江湖,http://120.77.28.4:8648/yy.php?id=1354282410
+#EXTINF:-1 tvg-name="笑傲江湖"  group-title="剧集",笑傲江湖
+笑傲江湖,https://live.metshop.top/yy/1354936128
+#EXTINF:-1 tvg-name="笑傲江湖"  group-title="剧集",笑傲江湖
+笑傲江湖,http://120.77.28.4:8648/huya.php?id=23865142
+
 #EXTINF:-1 tvg-name="武林外传" group-title="剧集",武林外传
 http://159.75.85.63:35455/yy/21092633
+
+#EXTINF:-1 tvg-name="大唐双龙传"  group-title="剧集",大唐双龙传
+http://diyp.zxxoo.work/huya/23728674
 #EXTINF:-1 tvg-name="大唐双龙传"  group-title="剧集",大唐双龙传
 http://159.75.85.63:35455/huya/s4k
+
 #EXTINF:-1 tvg-name="隋唐英雄传"  group-title="剧集",隋唐英雄传
 http://159.75.85.63:35455/yy/1352475619
 #EXTINF:-1 tvg-name="忠烈杨家将"  group-title="剧集",忠烈杨家将
