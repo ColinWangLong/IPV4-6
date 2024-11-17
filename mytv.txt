@@ -38,6 +38,7 @@ CCTV4欧洲,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC
 
 CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
 
+
 CCTV1,http://kxrj.site:8081/8647/mg.php?id=cctv1
 CCTV2,http://kxrj.site:8081/8647/mg.php?id=cctv2
 CCTV3,http://kxrj.site:8081/8647/mg.php?id=cctv3
@@ -112,9 +113,7 @@ CCTV15,http://27.155.54.73:4001/rtp/239.61.2.25:8144
 CCTV17,http://27.155.54.73:4001/rtp/239.61.3.9:9572
 CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 
-
 卫视,#genre#
-
 湖南卫视,http://27.155.54.73:4001/rtp/239.61.2.31:8180
 湖北卫视,http://27.155.54.73:4001/rtp/239.61.2.120:8714
 浙江卫视,http://27.155.54.73:4001/rtp/239.61.2.29:8168
@@ -127,24 +126,23 @@ CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 天津卫视,http://27.155.54.73:4001/rtp/239.61.2.180:9068
 河南卫视,http://27.155.54.73:4001/rtp/239.61.2.59:8348
 安徽卫视,http://27.155.54.73:4001/rtp/239.61.2.248:9476
-
-湖南卫视, http://183.94.146.109:2222/tsfile/live/0018_1.m3u8
-湖北卫视, http://183.94.146.109:2222/tsfile/live/0017_1.m3u8
-浙江卫视, http://183.94.146.109:2222/tsfile/live/1002_1.m3u8
-江苏卫视, http://183.94.146.109:2222/tsfile/live/1001_1.m3u8
-东方卫视, http://183.94.146.109:2222/tsfile/live/0107_1.m3u8
-东南卫视, http://183.94.146.109:2222/tsfile/live/1006_1.m3u8
-广东卫视, http://183.94.146.109:2222/tsfile/live/1004_1.m3u8
-深圳卫视, http://183.94.146.109:2222/tsfile/live/1005_1.m3u8
-北京卫视, http://183.94.146.109:2222/tsfile/live/1000_1.m3u8
-安徽卫视, http://183.94.146.109:2222/tsfile/live/1003_1.m3u8
+湖南卫视,http://183.94.146.109:2222/tsfile/live/0018_1.m3u8
+湖北卫视,http://183.94.146.109:2222/tsfile/live/0017_1.m3u8
+浙江卫视,http://183.94.146.109:2222/tsfile/live/1002_1.m3u8
+江苏卫视,http://183.94.146.109:2222/tsfile/live/1001_1.m3u8
+东方卫视,http://183.94.146.109:2222/tsfile/live/0107_1.m3u8
+东南卫视,http://183.94.146.109:2222/tsfile/live/1006_1.m3u8
+广东卫视,http://183.94.146.109:2222/tsfile/live/1004_1.m3u8
+深圳卫视,http://183.94.146.109:2222/tsfile/live/1005_1.m3u8
+北京卫视,http://183.94.146.109:2222/tsfile/live/1000_1.m3u8
+安徽卫视,http://183.94.146.109:2222/tsfile/live/1003_1.m3u8
 
 东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
 江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
 广东卫视,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
 湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
 
-浙江卫视, https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 东方卫视,http://kxrj.site:8081/8647/mg.php?id=dfws
 江苏卫视,http://kxrj.site:8081/8647/mg.php?id=jsws
 广东卫视,http://kxrj.site:8081/8647/mg.php?id=gdws
@@ -172,6 +170,7 @@ CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://110.185.240.152:55555/udp/239.93.0.156:2193
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
@@ -180,8 +179,8 @@ CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 
 明珠台,http://caocaocaocao.hg16888.vip/mytvsuper/P
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-
 星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+
 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
@@ -195,7 +194,6 @@ CCTV5+,http://27.155.54.73:4001/rtp/239.61.2.171:9014
 星影台,http://205.185.123.236:8899/1/now/stream.m3u8
 
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv001
@@ -209,21 +207,22 @@ CCTV,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/stre
 CGTN,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
 国际,#genre#
-
 BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
+BLOOMBERG,https://bloomberg.com/media-manifest/streams/asia.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 无限新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-日本新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-日经新闻,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+日全新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+日全新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+日本新闻,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 德国新闻,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 德国新闻,http://37.27.111.214:8080/live/46/hls.m3u8
 法国新闻,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 英国新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
@@ -235,14 +234,11 @@ BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 影视,#genre#
-
 豆瓣TOP,http://zzy789.xyz/douyu1.php?id=8770422
-
 美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 amc电影,http://61.221.215.25:8800/hls/43/index.m3u8
 PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
@@ -255,18 +251,16 @@ RockAction,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-
 家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-
 影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
 邵氏电影,http://maomao.kandiantv.cn/douyu1.php?id=4246519
-
 邵氏电影,https://live.metshop.top/douyu/4246519
 斗鱼轮播1,https://live.metshop.top/douyu/426517
 斗鱼轮播2,https://live.metshop.top/douyu/1274132
@@ -281,12 +275,15 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 剧集,#genre#
 陈翔六点半,http://diyp.zxxoo.work/huya/11274154
 爱情公寓,http://diyp.zxxoo.work/huya/11336726
+琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
+伪装者,http://maomao.kandiantv.cn/yy.php?id=1354936244
 大江大河,http://159.75.85.63:35455/yy/1382736797
 寻秦记,http://159.75.85.63:35455/yy/1382851591
 封神榜,http://159.75.85.63:35455/huya/23749096
 鹿鼎记,http://159.75.85.63:35455/huya/23865080
 西游记Ⅰ,http://159.75.85.63:35455/yy/1354936155
 天下第一,http://159.75.85.63:35455/yy/1382736838
+仙剑奇侠传Ⅰ,http://maomao.kandiantv.cn/yy.php?id=1382749903
 仙剑奇侠传Ⅰ,http://159.75.85.63:35455/yy/1382749903
 新三国,http://159.75.85.63:35455/huya/11352944
 新水浒,http://159.75.85.63:35455/huya/11342384
@@ -305,27 +302,25 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 雪中悍刀行,http://159.75.85.63:35455/yy/1382660835
 
 动漫,#genre#
-
 爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
 靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
 靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
-
 爆笑虫子,https://live.metshop.top/douyu/9942574
-
+猫和老鼠,http://159.75.85.63:35455/huya/11352879
 七龙珠,https://live.iill.top/huya/11601966
+七龙珠,http://159.75.85.63:35455/huya/11601966
 海贼王,https://live.iill.top/huya/16913382
-灌篮高手,https://live.iill.top/yy/1382735626  
-
+灌篮高手,http://maomao.kandiantv.cn/yy.php?id=1356243352
+灌篮高手,https://live.iill.top/yy/1382735626
 哆啦A梦,http://159.75.85.63:35455/huya/11601963
 蜡笔小新,http://159.75.85.63:35455/huya/11352970
 海绵宝宝,http://159.75.85.63:35455/huya/11352919
 火影忍者,http://159.75.85.63:35455/huya/11342385
 厨神小当家,http://159.75.85.63:35455/huya/24257300
-
 灌篮高手,https://live.metshop.top/yy/1356243352
 柯南剧场,https://live.metshop.top/douyu/7620081
+柯南剧场,http://maomao.kandiantv.cn/douyu1.php?id=6484910
 轮播动漫,https://live.metshop.top/douyu/1174353
-
 
 春晚,#genre#
 1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
