@@ -336,9 +336,9 @@ http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="华视" group-title="港澳",华视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="港澳",民视
-http://litv.zapi.us.kg/?id=4gtv-4gtv001
-#EXTINF:-1 tvg-name="台视" group-title="港澳",台视
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
+#EXTINF:-1 tvg-name="台视" group-title="港澳",台视
+http://litv.zapi.us.kg/?id=4gtv-4gtv001
 
 #EXTINF:-1 tvg-name="澳门资讯" group-title="港澳",澳门资讯
 http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
@@ -400,9 +400,9 @@ http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-name="阿里郎台" group-title="国际"阿里郎台
-http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-name="阿里郎台" group-title="国际"阿里郎台
 http://litv.zapi.us.kg/?id=4gtv-4gtv079
+#EXTINF:-1 tvg-name="阿里郎台" group-title="国际"阿里郎台
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-name="韩国新闻" group-title="国际",韩国新闻
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="朝鲜新闻" group-title="国际",朝鲜新闻
@@ -422,14 +422,12 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" group-title="国际",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
-
 #EXTINF:-1 tvg-name="红牛运动" group-title="国际",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-name="动物频道" group-title="国际",动物频道
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name="动物频道" group-title="国际",动物频道
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 
 #EXTINF:-1 tvg-name="豆瓣TOP"  group-title="影视",豆瓣TOP
 http://zzy789.xyz/douyu1.php?id=8770422
@@ -485,17 +483,16 @@ https://live.metshop.top/douyu/1274132
 http://diyp.zxxoo.work/huya/11602043
 #EXTINF:-1 tvg-name="虎牙轮播2" group-title="影视",虎牙轮播2
 http://diyp.zxxoo.work/huya/11602041
-#EXTINF:-1 tvg-name="星爷"  group-title="影视",星爷
+#EXTINF:-1 tvg-name="星爷" group-title="影视",星爷
 http://diyp.zxxoo.work/huya/11342412
-#EXTINF:-1 tvg-name="星爷"  group-title="影视",星爷
+#EXTINF:-1 tvg-name="星爷" group-title="影视",星爷
 http://diyp.zxxoo.work/huya/11336587
-#EXTINF:-1 tvg-name="成龙"  group-title="影视",成龙
+#EXTINF:-1 tvg-name="成龙" group-title="影视",成龙
 http://diyp.zxxoo.work/huya/11342386
-#EXTINF:-1 tvg-name="英叔"  group-title="影视",英叔
+#EXTINF:-1 tvg-name="英叔" group-title="影视",英叔
 http://43.136.119.99/yy.php?id=1351505899&uid=1150685483
-#EXTINF:-1 tvg-name="漫威"  group-title="影视",漫威
+#EXTINF:-1 tvg-name="漫威" group-title="影视",漫威
 http://diyp.zxxoo.work/huya/11602034
-
 
 #EXTINF:-1 tvg-name="陈翔六点半" group-title="剧集",陈翔六点半
 http://diyp.zxxoo.work/huya/11274154
@@ -530,7 +527,6 @@ https://live.metshop.top/yy/1382749900
 #EXTINF:-1 tvg-name="寻秦记" group-title="剧集",寻秦记
 http://diyp.zxxoo.work/huya/23864973
 
-
 #EXTINF:-1 tvg-name="封神榜" group-title="剧集",封神榜
 http://159.75.85.63:35455/huya/23749096
 #EXTINF:-1 tvg-name="封神榜" group-title="剧集",封神榜
@@ -541,7 +537,6 @@ http://120.77.28.4:8648/yy.php?id=1353426319
 https://lunbo.freetv.top/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" group-title="剧集",封神榜
 https://live.metshop.top/yy/1353426319
-
 
 #EXTINF:-1 tvg-name="鹿鼎记" group-title="剧集",鹿鼎记
 http://159.75.85.63:35455/huya/23865080
@@ -590,7 +585,6 @@ http://159.75.85.63:35455/yy/1382851540
 
 #EXTINF:-1 tvg-name="风云雄霸天下" group-title="剧集",风云雄霸天下
 http://159.75.85.63:35455/huya/21059612
-
 
 #EXTINF:-1 tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
 http://159.75.85.63:35455/huya/11342403
@@ -695,35 +689,35 @@ https://live.metshop.top/douyu/1174353
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
 #EXTINF:-1 tvg-name="1996" group-title="春晚",1996
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 tvg-name="1997"  group-title="春晚",1997
+#EXTINF:-1 tvg-name="1997" group-title="春晚",1997
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1998"  group-title="春晚",1998
+#EXTINF:-1 tvg-name="1998" group-title="春晚",1998
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1999"  group-title="春晚",1999
+#EXTINF:-1 tvg-name="1999" group-title="春晚",1999
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 tvg-name="2000"  group-title="春晚",2000
+#EXTINF:-1 tvg-name="2000" group-title="春晚",2000
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 tvg-name="2001"  group-title="春晚",2001
+#EXTINF:-1 tvg-name="2001" group-title="春晚",2001
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 tvg-name="2002"  group-title="春晚",2002
+#EXTINF:-1 tvg-name="2002" group-title="春晚",2002
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 tvg-name="2003"  group-title="春晚",2003
+#EXTINF:-1 tvg-name="2003" group-title="春晚",2003
 https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 tvg-name="2004"  group-title="春晚",2004
+#EXTINF:-1 tvg-name="2004" group-title="春晚",2004
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 tvg-name="2005"  group-title="春晚",2005
+#EXTINF:-1 tvg-name="2005" group-title="春晚",2005
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 tvg-name="2006"  group-title="春晚",2006
+#EXTINF:-1 tvg-name="2006" group-title="春晚",2006
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 tvg-name="2007"  group-title="春晚",2007
+#EXTINF:-1 tvg-name="2007" group-title="春晚",2007
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 tvg-name="2008"  group-title="春晚",2008
+#EXTINF:-1 tvg-name="2008" group-title="春晚",2008
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
 #EXTINF:-1 tvg-name="2009" group-title="春晚",2009
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 tvg-name="2010"  group-title="春晚",2010
+#EXTINF:-1 tvg-name="2010" group-title="春晚",2010
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 tvg-name="2011"  group-title="春晚",2011
+#EXTINF:-1 tvg-name="2011" group-title="春晚",2011
 https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
 #EXTINF:-1 tvg-name="2012" group-title="春晚",2012
 https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
@@ -733,7 +727,7 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 #EXTINF:-1 tvg-name="2015" group-title="春晚",2015
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 tvg-name="2016"  group-title="春晚",2016
+#EXTINF:-1 tvg-name="2016" group-title="春晚",2016
 https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
 #EXTINF:-1 tvg-name="2017" group-title="春晚",2017
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
