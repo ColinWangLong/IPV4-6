@@ -437,6 +437,10 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="amc电影"  group-title="影视",amc电影
 http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="amc电影"  group-title="影视",amc电影
+http://litv.zapi.us.kg/?id=4gtv-4gtv017
+#EXTINF:-1 tvg-name="cat电影"  group-title="影视",cat电影
+http://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="PopC电影" group-title="影视",PopC电影
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="RockAction"  group-title="影视",RockAction
