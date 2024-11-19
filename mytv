@@ -433,9 +433,16 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
 
+
+
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+第二台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+第三台,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+第四台,https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+第五台,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
 
 无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
