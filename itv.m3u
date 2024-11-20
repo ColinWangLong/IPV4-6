@@ -273,6 +273,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-name="凤凰卫视" group-title="港澳",凤凰卫视
+http://146.56.153.245:20121/bysid/258
+
+#EXTINF:-1 tvg-name="凤凰卫视" group-title="港澳",凤凰卫视
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
@@ -297,9 +300,7 @@ http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-
-#EXTINF:-1 tvg-name="明珠台" group-title="港澳",明珠台
-http://caocaocaocao.hg16888.vip/mytvsuper/P
+f
 #EXTINF:-1 tvg-name="明珠台" group-title="港澳",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="星河台" group-title="港澳",星河台
@@ -353,6 +354,16 @@ http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CGTN" group-title="港澳",CGTN
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="RTHK" group-title="港澳",RTHK
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+#EXTINF:-1 tvg-name="RTHK" group-title="港澳",RTHK
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+#EXTINF:-1 tvg-name="RTHK" group-title="港澳",RTHK
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+#EXTINF:-1 tvg-name="RTHK" group-title="港澳",RTHK
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1 tvg-name="RTHK" group-title="港澳",RTHK
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
 
 #EXTINF:-1 tvg-name="无限新闻"  group-title="国际",无限新闻
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
@@ -362,9 +373,9 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="东森新闻" group-title="国际",东森新闻
-http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-name="东森新闻" group-title="国际",东森新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="东森新闻" group-title="国际",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="东森新闻" group-title="国际",东森新闻
 http://211.72.65.236:8540/.m3u8
 
@@ -374,9 +385,9 @@ http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 http://litv.zapi.us.kg/?id=litv-longturn14
 
 #EXTINF:-1 tvg-name="彭博社"  group-title="国际",彭博社
-http://37.27.111.214:8080/live/34/hls.m3u8
-#EXTINF:-1 tvg-name="彭博社"  group-title="国际",彭博社
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-name="彭博社"  group-title="国际",彭博社
+http://37.27.111.214:8080/live/34/hls.m3u8
 
 #EXTINF:-1 tvg-name="亚洲新闻" group-title="国际",亚洲新闻
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
@@ -396,12 +407,11 @@ http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 http://37.27.111.214:8080/live/46/hls.m3u8
 #EXTINF:-1 tvg-name="法国新闻" group-title="国际",法国新闻
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-name="英国新闻" group-title="国际",英国新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-name="阿里郎台" group-title="国际"阿里郎台
+
+#EXTINF:-1 tvg-name="阿里郎" group-title="国际"阿里郎
 http://litv.zapi.us.kg/?id=4gtv-4gtv079
-#EXTINF:-1 tvg-name="阿里郎台" group-title="国际"阿里郎台
+#EXTINF:-1 tvg-name="阿里郎" group-title="国际"阿里郎
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-name="韩国新闻" group-title="国际",韩国新闻
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
@@ -421,7 +431,8 @@ https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" group-title="国际",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-
+#EXTINF:-1 tvg-name="英国新闻" group-title="国际",英国新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="红牛运动" group-title="国际",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-name="动物频道" group-title="国际",动物频道
@@ -459,18 +470,21 @@ http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" group-title="影视",黑莓电影
 http://112.102.217.173:9003//hls/99/index.m3u8
-#EXTINF:-1 tvg-name="动作电影" group-title="影视",动作电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+
 #EXTINF:-1 tvg-name="动作电影" group-title="影视",动作电影
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 tvg-name="家庭影院"  group-title="影视",家庭影院
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-#EXTINF:-1 tvg-name="家庭影院"  group-title="影视",家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 #EXTINF:-1 tvg-name="影迷电影"  group-title="影视",影迷电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
-#EXTINF:-1 tvg-name="影迷电影"  group-title="影视",影迷电影
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+
+#EXTINF:-1 tvg-name="动作电影" group-title="影视",动作电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+#EXTINF:-1 tvg-name="家庭影院"  group-title="影视",家庭影院
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
+#EXTINF:-1 tvg-name="影迷电影"  group-title="影视",影迷电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
+
 #EXTINF:-1 tvg-name="重温经典" group-title="影视",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="Astr剧集" group-title="影视",Astr剧集
@@ -481,20 +495,131 @@ http://php.jdshipin.com:8880/amlh.php
 http://maomao.kandiantv.cn/douyu1.php?id=4246519
 #EXTINF:-1 tvg-name="邵氏电影" group-title="影视",邵氏电影
 https://live.metshop.top/douyu/4246519
-#EXTINF:-1 tvg-name="斗鱼轮播1" group-title="影视",斗鱼轮播1
+
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
 https://live.metshop.top/douyu/426517
-#EXTINF:-1 tvg-name="斗鱼轮播2" group-title="影视",斗鱼轮播2
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
 https://live.metshop.top/douyu/1274132
-#EXTINF:-1 tvg-name="虎牙轮播1" group-title="影视",虎牙轮播1
-http://diyp.zxxoo.work/huya/11602043
-#EXTINF:-1 tvg-name="虎牙轮播2" group-title="影视",虎牙轮播2
-http://diyp.zxxoo.work/huya/11602041
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/3928
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/1377142
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/5423
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/315457
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/74374
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/508118
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/122402
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/20415
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/323876
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/2793084
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/85894
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/747764
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/263824
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/252802
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/4332
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/52787
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/434971
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/431460
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/276200
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/338759
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/2935323
+#EXTINF:-1 tvg-name="斗鱼" group-title="影视",斗鱼轮播(左右)
+http://diyp.zxxoo.work/douyu/7356023
+
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/21059588
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/880261
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11601986
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352941
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11336719
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/21059578
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11602075
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/21059587
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/21059574
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352974
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11336590
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352884
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11602077
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11342423
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11602044
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352894
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352897
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11342395
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11342435
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11342419
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352913
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11601977
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11336571
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352909
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11602033
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352965
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352969
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/21059580
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11601981
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11601960
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/11352903
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/21059596
+#EXTINF:-1 tvg-name="虎牙" group-title="影视",虎牙轮播(换台)
+http://diyp.zxxoo.work/huya/21059554
+
 #EXTINF:-1 tvg-name="星爷" group-title="影视",星爷
 http://diyp.zxxoo.work/huya/11342412
 #EXTINF:-1 tvg-name="星爷" group-title="影视",星爷
 http://diyp.zxxoo.work/huya/11336587
 #EXTINF:-1 tvg-name="成龙" group-title="影视",成龙
 http://diyp.zxxoo.work/huya/11342386
+#EXTINF:-1 tvg-name="英叔" group-title="影视",英叔
+http://120.77.28.4:8648/huya.php?id=11342421
 #EXTINF:-1 tvg-name="英叔" group-title="影视",英叔
 http://43.136.119.99/yy.php?id=1351505899&uid=1150685483
 #EXTINF:-1 tvg-name="漫威" group-title="影视",漫威
@@ -507,6 +632,8 @@ http://diyp.zxxoo.work/huya/11274154
 http://diyp.zxxoo.work/huya/11336726
 #EXTINF:-1 tvg-name="爱情公寓" group-title="剧集",爱情公寓
 http://120.77.28.4:8648/huya.php?id=11336726
+#EXTINF:-1 tvg-name="爱情公寓" group-title="剧集",爱情公寓
+http://diyp.zxxoo.work/douyu/6566658
 
 #EXTINF:-1 tvg-name="万合天宜" group-title="剧集",万合天宜
 http://120.77.28.4:8648/douyu.php?id=9220456
@@ -516,6 +643,8 @@ http://159.75.85.63:35455/douyu/9220456
 #EXTINF:-1 tvg-name="琅琊榜" group-title="剧集",琅琊榜
 http://zby.xjqxz.top/lyb/live.m3u8
 
+#EXTINF:-1 tvg-name="伪装者" group-title="剧集",伪装者
+http://jiaojirentv.top/2020/yy.php?id=1354936244
 #EXTINF:-1 tvg-name="伪装者" group-title="剧集",伪装者
 http://maomao.kandiantv.cn/yy.php?id=1354936244
 
@@ -565,6 +694,8 @@ http://159.75.85.63:35455/yy/1382736838
 #EXTINF:-1 tvg-name="天下第一" group-title="剧集",天下第一
 http://11.xmyxc.cn/api/php/yy.php?id=1382736838
 
+#EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" group-title="剧集",仙剑奇侠传Ⅰ
+http://jiaojirentv.top/2020/yy.php?id=1382749903
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" group-title="剧集",仙剑奇侠传Ⅰ
 http://maomao.kandiantv.cn/yy.php?id=1382749903
 #EXTINF:-1 tvg-name="仙剑奇侠传Ⅰ" group-title="剧集",仙剑奇侠传Ⅰ
@@ -624,6 +755,8 @@ http://159.75.85.63:35455/yy/1354930909
 #EXTINF:-1 tvg-name="笑傲江湖" group-title="剧集",笑傲江湖
 笑傲江湖,http://120.77.28.4:8648/huya.php?id=23865142
 
+#EXTINF:-1 tvg-name="射雕英雄传" group-title="剧集",射雕英雄传
+http://diyp.zxxoo.work/huya/11352964
 #EXTINF:-1 tvg-name="武林外传" group-title="剧集",武林外传
 http://159.75.85.63:35455/yy/21092633
 
@@ -634,6 +767,9 @@ http://159.75.85.63:35455/huya/s4k
 
 #EXTINF:-1 tvg-name="隋唐英雄传" group-title="剧集",隋唐英雄传
 http://159.75.85.63:35455/yy/1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" group-title="剧集",隋唐英雄传
+
+http://jiaojirentv.top/2020/yy.php?id=1352475619
 #EXTINF:-1 tvg-name="忠烈杨家将" group-title="剧集",忠烈杨家将
 http://159.75.85.63:35455/yy/1382749909
 #EXTINF:-1 tvg-name="雪中悍刀行" group-title="剧集",雪中悍刀行
