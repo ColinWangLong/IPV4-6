@@ -384,11 +384,6 @@ http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻"  group-title="国际",寰宇新闻
 http://litv.zapi.us.kg/?id=litv-longturn14
 
-#EXTINF:-1 tvg-name="彭博社"  group-title="国际",彭博社
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-name="彭博社"  group-title="国际",彭博社
-http://37.27.111.214:8080/live/34/hls.m3u8
-
 #EXTINF:-1 tvg-name="亚洲新闻" group-title="国际",亚洲新闻
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" group-title="国际",亚洲新闻
@@ -407,7 +402,6 @@ http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 http://37.27.111.214:8080/live/46/hls.m3u8
 #EXTINF:-1 tvg-name="法国新闻" group-title="国际",法国新闻
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-
 
 #EXTINF:-1 tvg-name="阿里郎" group-title="国际",阿里郎台
 http://litv.zapi.us.kg/?id=4gtv-4gtv079
@@ -447,9 +441,9 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亚电影" group-title="影视",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="amc电影"  group-title="影视",amc电影
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="amc电影"  group-title="影视",amc电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv017
+#EXTINF:-1 tvg-name="amc电影"  group-title="影视",amc电影
+http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="cat电影"  group-title="影视",cat电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="PopC电影" group-title="影视",PopC电影
