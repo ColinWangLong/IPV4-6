@@ -458,6 +458,11 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv076
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="RockAction"  group-title="影视",RockAction
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="HISTORY"  group-title="影视",HISTORY
+HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 tvg-name="HITs电影"  group-title="影视",HITs电影
+HITs电影频道,http://37.27.111.214:8080/live/28/hls.m3u8
+
 #EXTINF:-1 tvg-name="数位电影" group-title="影视",数位电影
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="龙华经典" group-title="影视",龙华经典
