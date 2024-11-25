@@ -334,12 +334,20 @@ http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="中视" group-title="港澳",中视
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-name="中视" group-title="港澳",中视
+rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="华视" group-title="港澳",华视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="华视" group-title="港澳",华视
+rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="民视" group-title="港澳",民视
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
+#EXTINF:-1 tvg-name="民视" group-title="港澳",民视
+rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="台视" group-title="港澳",台视
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
+#EXTINF:-1 tvg-name="台视" group-title="港澳",台视
+rtmp://f13h.mine.nu/sat/tv071
 
 #EXTINF:-1 tvg-name="澳门资讯" group-title="港澳",澳门资讯
 http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
