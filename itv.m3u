@@ -78,45 +78,44 @@ http://kxrj.site:8081/8647/mg.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
 http://kxrj.site:8081/8647/mg.php?id=cctv4a
 
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv1
+
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv2
+
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv3
+
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv4
+
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv5
+
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv6
+
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv7
+
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv8
+
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv9
+
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv10
+
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv11
+
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv12
+
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv13
+
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv14
+
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv15
+
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv17
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
+
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv4o
+
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv4a
+
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
@@ -186,8 +185,6 @@ http://112.102.217.173:9003//hls/28/index.m3u8
 http://112.102.217.173:9003//hls/30/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
 http://112.102.217.173:9003//hls/18/index.m3u8
-#EXTINF:-1 tvg-name="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV.png" group-title="央视",CCTV
-http://121.232.178.93:5000/tsfile/live/0001_2.m3u8
 
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -302,7 +299,7 @@ http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-f
+
 #EXTINF:-1 tvg-name="明珠台" group-title="港澳",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="星河台" group-title="港澳",星河台
@@ -318,16 +315,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 
 #EXTINF:-1 tvg-name="爆谷台" group-title="港澳",爆谷台
-https://www.mytvsuper.xyz/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-name="爆谷台" group-title="港澳",爆谷台
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="爆谷台" group-title="港澳",爆谷台
-http://205.185.123.236:8899/1/baogutai/stream.m3u8
 
 #EXTINF:-1 tvg-name="星影台" group-title="港澳",星影台
-https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
-#EXTINF:-1 tvg-name="星影台" group-title="港澳",星影台
-http://205.185.123.236:8899/1/now/stream.m3u8
+
 
 #EXTINF:-1 tvg-name="TVBS" group-title="港澳",TVBS
 http://litv.zapi.us.kg/?id=4gtv-4gtv073
@@ -399,8 +389,6 @@ http://litv.zapi.us.kg/?id=litv-longturn14
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
 
 #EXTINF:-1 tvg-name="日全新闻" group-title="国际",日全新闻
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
