@@ -113,28 +113,16 @@ http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://121.232.178.93:5000/tsfile/live/0001_8.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://121.232.178.93:5000/tsfile/live/0001_9.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://121.232.178.93:5000/tsfile/live/0001_5.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 http://121.232.178.93:5000/tsfile/live/0001_7.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 http://121.232.178.93:5000/tsfile/live/0001_12.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-http://121.232.178.93:5000/tsfile/live/0126_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://121.232.178.93:5000/tsfile/live/0001_6.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://223.167.77.191:4022/udp/239.45.3.228:5140
@@ -169,6 +157,11 @@ https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLR
 https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
+https://api.livednow.org/migu/783847495?sign=gAAAAABnJcJqSxNO7cIGHJVGiP23aVwddpa5-Uj611uPtb-B59dmlhqB3KvALkxWK9erVikPtvf_CCUy-Au9GrH8x09UkoWAVcBYsPpl04DfI8C5xmP2Ngry7LvN4nkLgM8jrTQCdSw9JqYxvBS4kcEsKcXaalufeTRy0B0gmPvBMYA0qBe5eBDbavp1kUzTq7bdpM9UGmek_DpYICCnOXAceQXch1tdhw%3D%3D
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
+https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
+
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
@@ -190,9 +183,9 @@ http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="港澳",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="港澳",凤凰咨询
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="港澳",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="港澳",凤凰香港
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="港澳",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="港澳",凤凰卫视
@@ -226,7 +219,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="港澳",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="星河台" tvg-logo="" group-title="港澳",星河台
+#EXTINF:-1 tvg-name="星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",星河台
 http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 
 #EXTINF:-1 tvg-name="星河台" tvg-logo="" group-title="港澳",星河台
@@ -249,7 +242,7 @@ http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="港澳",中视
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="港澳",
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳",台视
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
 
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="港澳",中视
@@ -258,7 +251,7 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="港澳",中视
 rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="港澳",
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳",台视
 rtmp://f13h.mine.nu/sat/tv071
 
 #EXTINF:-1 tvg-name="澳门资讯" tvg-logo="" group-title="港澳",澳门资讯
