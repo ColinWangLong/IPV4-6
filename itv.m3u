@@ -621,12 +621,18 @@ p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
 p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
 #EXTINF:-1 tvg-name="惊艳台" group-title="限制",惊艳台
 http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 tvg-name="惊艳台" group-title="限制",惊艳台
+http://18.svi-studio.com:80/live/271871095922/006886711863/1.m3u8
 #EXTINF:-1 tvg-name="香蕉台" group-title="限制",香蕉台
 p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1 tvg-name="香蕉台" group-title="限制",香蕉台
+http://18.svi-studio.com:80/live/271871095922/006886711863/4.m3u8
 #EXTINF:-1 tvg-name="极限台" group-title="限制",极限台
 p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
 #EXTINF:-1 tvg-name="潘多拉" group-title="限制",潘多拉
 p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
+#EXTINF:-1 tvg-name="潘多拉" group-title="限制",潘多拉
+http://18.svi-studio.com:80/live/271871095922/006886711863/3.m3u8
 #EXTINF:-1 tvg-name="欧美台" group-title="限制",欧美台
 p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253
 #EXTINF:-1 tvg-name="欧美台" group-title="限制",欧美台
