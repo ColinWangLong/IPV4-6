@@ -124,31 +124,6 @@ http://121.232.178.93:5000/tsfile/live/0001_12.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://121.232.178.93:5000/tsfile/live/0001_6.m3u8
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-http://223.167.77.191:4022/udp/239.45.3.228:5140
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-http://223.167.77.191:4022/udp/239.45.3.239:5140
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-http://223.167.77.191:4022/udp/239.45.3.178:5140
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://223.167.77.191:4022/udp/239.45.3.177:5140
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-http://223.167.77.191:4022/udp/239.45.3.146:5140
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-http://223.167.77.191:4022/udp/239.45.1.121:5140
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-http://223.167.77.191:4022/udp/239.45.3.230:5140
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-http://223.167.77.191:4022/udp/239.45.3.231:5140
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-http://223.167.77.191:4022/udp/239.45.3.229:5140
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-http://223.167.77.191:4022/udp/239.45.1.124:5140
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-http://223.167.77.191:4022/udp/239.45.0.3:5140
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://223.167.77.191:4022/rtp/239.45.3.143:5140
-
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
@@ -172,7 +147,6 @@ http://kxrj.site:8081/8647/mg.php?id=jsws
 http://kxrj.site:8081/8647/mg.php?id=gdws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://kxrj.site:8081/8647/mg.php?id=hubws
-
 
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="港澳",凤凰卫视
 http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -236,47 +210,38 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv073
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="港澳",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="港澳",中视
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港澳",中视
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="港澳",中视
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港澳",中视
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="港澳",中视
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳",中视
 http://litv.zapi.us.kg/?id=4gtv-4gtv002
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳",台视
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
 
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="港澳",中视
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港澳",中视
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="港澳",中视
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港澳",中视
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="港澳",中视
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳",中视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳",台视
 rtmp://f13h.mine.nu/sat/tv071
 
-#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="" group-title="港澳",澳门资讯
+#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="港澳",澳门资讯
 http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="" group-title="港澳",澳门资讯
+#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="" group-title="港澳",澳门资讯
+#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="港澳",澳门资讯
 https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="" group-title="港澳",澳门体育
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="港澳",澳门体育
 http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="港澳",CCTV
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="港澳",CGTN
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="RTHK" tvg-logo="" group-title="港澳",RTHK
-https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
-#EXTINF:-1 tvg-name="RTHK" tvg-logo="" group-title="港澳",RTHK
-https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
-#EXTINF:-1 tvg-name="RTHK" tvg-logo="" group-title="港澳",RTHK
-https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
-#EXTINF:-1 tvg-name="RTHK" tvg-logo="" group-title="港澳",RTHK
-https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
-#EXTINF:-1 tvg-name="RTHK" tvg-logo="" group-title="港澳",RTHK
-https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+
 
 #EXTINF:-1 tvg-name="无限新闻" tvg-logo="" group-title="国际",无限新闻
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
